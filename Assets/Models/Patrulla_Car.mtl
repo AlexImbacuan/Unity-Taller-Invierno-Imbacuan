@@ -1,0 +1,6 @@
+newmtl Mat_Patrulla
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.3 0.3 0.3
+Ns 60
+map_Kd Patrulla_Texture.png
